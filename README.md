@@ -53,8 +53,7 @@
 ## 🔗 Connect
 
 * 📧 [vairagadetanmay@gmail.com](mailto:vairagadetanmay@gmail.com)
-* 💼 LinkedIn
-* 🧠 LeetCode
+
 
 ---
 
